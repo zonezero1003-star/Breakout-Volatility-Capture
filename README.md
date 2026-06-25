@@ -207,8 +207,8 @@ The most important shift happening right now is the separation of *strategy thin
 | **Live Strategy (GetAgent Studio)** | [getagent.studio/strategy/6630a7e7-88fd-4221-b794-e5fe2aa474ab](https://getagent.studio/strategy/6630a7e7-88fd-4221-b794-e5fe2aa474ab) |
 | **Bitget Campaign Registration** | [bitget.com/campaigns/d8a2…](https://bitget.com/campaigns/d8a2) |
 | **GitHub Repo / Execution Logs** | *(add your GitHub link here)* |
-| **Project Post (with #BitgetHackathon + @BitgetAI)** | [x.com/princesschi99/status/2070089910535454890](https://x.com/princesschi99/status/2070089910535454890) |
-| **Repost of Official Campaign Post** | [x.com/princesschi99/status/2070090808703733967](https://x.com/princesschi99/status/2070090808703733967) |
+| **Project Post (with #BitgetHackathon + @BitgetAI)** | [x.com/princesschi99/status/2070089910535454890](https://x.com/princesschi99/status/2070090808703733967) |
+| **Repost of Official Campaign Post** | [x.com/princesschi99/status/2070090808703733967](https://x.com/princesschi99/status/2070089910535454890) |
 | **Demo Video (if required)** | *(add YouTube or public X video link here)* |
 
 ---
